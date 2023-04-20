@@ -1,5 +1,4 @@
 # COCO CHANEL TRIBUTE PAGE
-# TECH BLOG
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -22,11 +21,11 @@ Tribute page for Coco Chanel. This is a Certification Project for freeCodeCamp R
 
 ## Deployment
 
-[https://x]
+[https://hannazo.github.io/coco-chanel/]
   
 ## Usage
   
-Click on the [link](https://x/) to access the Coco Chanel Tribute page.
+Click on the [link](https://hannazo.github.io/coco-chanel/) to access the Coco Chanel Tribute page.
   
 ## License
     
